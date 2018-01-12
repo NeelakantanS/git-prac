@@ -1,4 +1,5 @@
 //change1
+//change 2 for merge through git bash
 <?php
 	if (!empty($_SERVER['HTTPS']) && ('on' == $_SERVER['HTTPS'])) {
 		$uri = 'https://';
